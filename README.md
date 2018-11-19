@@ -5,4 +5,8 @@ Leetcode problems collection
 
 | #  |  Title | Solution  | Difficulty  | Hint | Code|
 | ------------ | ------------ | ------------ | ------------ | --------|--------|
-| 20  | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/ "valid-parentheses") | JAVA  | Easy  | 使用栈的FILO特性，依次压栈和出栈比较 |[code](https://github.com/WillJE/LeetCode/blob/master/algorithms/20%20Valid%20Parentheses/ValidParentheses.java "code")
+| 20  | [valid-parentheses](https://leetcode.com/problems/valid-parentheses/description/ "valid-parentheses") | JAVA  | Easy  | 使用栈的FILO特性，依次压栈和出栈比较 |[code](https://github.com/WillJE/LeetCode/blob/master/algorithms/20%20Valid%20Parentheses/ValidParentheses.java "code")|
+| 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/ "Remove Linked List Elements") | JAVA  | Easy  | 关键是要判断头节点是否是需要删除的节点 |[code](https://github.com/WillJE/LeetCode/blob/master/algorithms/203%20Remove%20Linked%20List%20Elements/Solution.java "code")|
+| 349  | [Intersection of Two Arrays](https://leetcode.com/problems/Intersection-of-Two-Arrays/ "Intersection of Two Arrays") | JAVA  | Easy  | 使用TreeSet去重 |[code](https://github.com/WillJE/LeetCode/blob/master/algorithms/349%20Intersection%20of%20Two%20Arrays/Solution.java "code")|
+| 350  | [intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii/ "intersection-of-two-arrays-ii") | JAVA  | Easy  | 使用TreeMap定义一个<K,V>为<元素，个数>的结构 |[code](https://github.com/WillJE/LeetCode/blob/master/algorithms/350%20intersection-of-two-arrays-ii/Solution.java "code")|
+
